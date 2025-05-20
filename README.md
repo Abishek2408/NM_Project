@@ -1,5 +1,4 @@
 AI-Based Supply Chain Management
-Status
 
 📦 Overview
 AI-Based Supply Chain Management is a project focused on integrating Artificial Intelligence and Machine Learning technologies into traditional supply chain systems. The goal is to enhance forecasting accuracy, automate logistics, and optimize inventory management, ultimately reducing costs and improving decision-making across the supply chain.
